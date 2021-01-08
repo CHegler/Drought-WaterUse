@@ -14,13 +14,13 @@ Turns out the data was excellent, I needed to learn more about how and what Drou
 My hope is that together we will find solutions, innovations and ways to save and reuse water. Water is Life, so my hope is that we will all have more life. 
 
 --------------------
-#Attributions and Thanks
-#Springboard & Mentor
+Attributions and Thanks
+Springboard & Mentor
 
-#The National Drought Mitigation Center
-#University of Nebraska-Lincoln
-3310 Holdrege Street
-P.O. Box 830988
+The National Drought Mitigation Center
+University of Nebraska-Lincoln
+3310 Holdrege Street, 
+P.O. Box 830988, 
 Lincoln, NE 68583–0988
 #DATA: https://droughtmonitor.unl.edu/Data/DataDownload/ComprehensiveStatistics.aspx
 #ABOUT: https://droughtmonitor.unl.edu/About/AbouttheData/StatisticsExplanation.aspx
