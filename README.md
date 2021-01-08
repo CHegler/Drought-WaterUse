@@ -19,9 +19,9 @@ My hope is that together we will find solutions, innovations and ways to save an
 
 #The National Drought Mitigation Center
 #University of Nebraska-Lincoln
-# 3310 Holdrege Street
-# P.O. Box 830988
-# Lincoln, NE 68583–0988
+3310 Holdrege Street
+P.O. Box 830988
+Lincoln, NE 68583–0988
 #DATA: https://droughtmonitor.unl.edu/Data/DataDownload/ComprehensiveStatistics.aspx
 #ABOUT: https://droughtmonitor.unl.edu/About/AbouttheData/StatisticsExplanation.aspx
 
