@@ -29,3 +29,4 @@ My hope is that together we will find solutions, innovations and ways to save an
 #Estimated Use of Water in the United States - County-Level Data for 2015
 #Publication Date: 2017-09-28
 #Citation: Dieter, C.A., Linsey, K.S., Caldwell, R.R., Harris, M.A., Ivahnenko, T.I., Lovelace, J.K., Maupin, M.A., and Barber, N.L., 2018, Estimated Use of Water in the United States County-Level Data for 2015 (ver. 2.0, June 2018): U.S. Geological Survey data release, https://doi.org/10.5066/F7TB15V5.
+
